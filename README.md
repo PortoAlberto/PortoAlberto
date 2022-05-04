@@ -1,7 +1,9 @@
--  Bem-vindo, eu sou o Alberto Porto.
--  Estou aqui para aprender e mostrar o que já aprendi;
--  Tenho conhecimento em Python, Lua e JavaScript (e suas variáveis);
--  Atualmente estou estudando Angular e React.
+ 💻 Sou desenvolvedor Front-end (Angular e React);
+ 
+ 🧭 Atualmente no Brasil;
+ 
+ ⌨️ Em constante desenvolvimento.
+ 
 
 
 
