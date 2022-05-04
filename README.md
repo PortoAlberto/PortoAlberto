@@ -1,4 +1,4 @@
- 💻 Sou desenvolvedor Front-end (Angular e React);
+ 💻 Sou desenvolvedor Front end (Angular e React);
  
  🧭 Atualmente no Brasil;
  
